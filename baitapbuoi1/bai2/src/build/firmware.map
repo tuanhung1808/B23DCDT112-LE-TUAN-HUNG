@@ -1,0 +1,296 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/src/main.o
+ .data          0x0000000000000000        0x0 build/src/main.o
+ .bss           0x0000000000000000        0x0 build/src/main.o
+ .text          0x0000000000000000        0x0 build/cmsis/core_cm3.o
+ .data          0x0000000000000000        0x0 build/cmsis/core_cm3.o
+ .bss           0x0000000000000000        0x0 build/cmsis/core_cm3.o
+ .text.__get_PSP
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_PSP
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__get_MSP
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_MSP
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__get_BASEPRI
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_BASEPRI
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__get_PRIMASK
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_PRIMASK
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__get_FAULTMASK
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_FAULTMASK
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__get_CONTROL
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__set_CONTROL
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__REV    0x0000000000000000        0x4 build/cmsis/core_cm3.o
+ .text.__REV16  0x0000000000000000        0x4 build/cmsis/core_cm3.o
+ .text.__REVSH  0x0000000000000000        0x4 build/cmsis/core_cm3.o
+ .text.__RBIT   0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__LDREXB
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__LDREXH
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__LDREXW
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__STREXB
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__STREXH
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .text.__STREXW
+                0x0000000000000000        0x8 build/cmsis/core_cm3.o
+ .comment       0x0000000000000000       0x34 build/cmsis/core_cm3.o
+ .ARM.attributes
+                0x0000000000000000       0x2d build/cmsis/core_cm3.o
+ .text          0x0000000000000000        0x0 build/lib/src/stm32f10x_gpio.o
+ .data          0x0000000000000000        0x0 build/lib/src/stm32f10x_gpio.o
+ .bss           0x0000000000000000        0x0 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xdc build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_Init
+                0x0000000000000000       0xc4 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000        0xc build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0x4 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x1c build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000       0x70 build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x2c build/lib/src/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000        0xc build/lib/src/stm32f10x_gpio.o
+ .comment       0x0000000000000000       0x34 build/lib/src/stm32f10x_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x2d build/lib/src/stm32f10x_gpio.o
+ .text          0x0000000000000000        0x0 build/lib/src/stm32f10x_rcc.o
+ .data          0x0000000000000000        0x0 build/lib/src/stm32f10x_rcc.o
+ .bss           0x0000000000000000        0x0 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x40 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x38 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x30 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0x90 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x18 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x34 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 build/lib/src/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc build/lib/src/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x0000000000000000        0x4 build/lib/src/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 build/lib/src/stm32f10x_rcc.o
+ .comment       0x0000000000000000       0x34 build/lib/src/stm32f10x_rcc.o
+ .ARM.attributes
+                0x0000000000000000       0x2d build/lib/src/stm32f10x_rcc.o
+ .text          0x0000000000000000        0x0 build/lib/src/system_stm32f10x.o
+ .data          0x0000000000000000        0x0 build/lib/src/system_stm32f10x.o
+ .bss           0x0000000000000000        0x0 build/lib/src/system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x5c build/lib/src/system_stm32f10x.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 build/lib/src/system_stm32f10x.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 build/lib/src/system_stm32f10x.o
+ .text          0x0000000000000000        0x0 build/lib/src/SYSTICK.o
+ .data          0x0000000000000000        0x0 build/lib/src/SYSTICK.o
+ .bss           0x0000000000000000        0x0 build/lib/src/SYSTICK.o
+ .text.millis   0x0000000000000000        0xc build/lib/src/SYSTICK.o
+ .text          0x0000000000000000        0x0 build/startup.o
+ .data          0x0000000000000000        0x0 build/startup.o
+ .bss           0x0000000000000000        0x0 build/startup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000010000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/src/main.o
+LOAD build/cmsis/core_cm3.o
+LOAD build/lib/src/stm32f10x_gpio.o
+LOAD build/lib/src/stm32f10x_rcc.o
+LOAD build/lib/src/system_stm32f10x.o
+LOAD build/lib/src/SYSTICK.o
+LOAD build/startup.o
+                0x0000000020005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x0000000008000000      0x130
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x130 build/startup.o
+                0x0000000008000130                . = ALIGN (0x4)
+
+.text           0x0000000008000130      0x19c
+                0x0000000008000130                . = ALIGN (0x4)
+ *(.text)
+ *(.text.*)
+ .text.startup.main
+                0x0000000008000130       0x58 build/src/main.o
+                0x0000000008000130                main
+ .text.SystemInit
+                0x0000000008000188      0x100 build/lib/src/system_stm32f10x.o
+                0x0000000008000188                SystemInit
+ .text.SysTick_Init
+                0x0000000008000288       0x18 build/lib/src/SYSTICK.o
+                0x0000000008000288                SysTick_Init
+ .text.SysTick_Handler
+                0x00000000080002a0       0x10 build/lib/src/SYSTICK.o
+                0x00000000080002a0                SysTick_Handler
+ .text.delay_ms
+                0x00000000080002b0       0x14 build/lib/src/SYSTICK.o
+                0x00000000080002b0                delay_ms
+ .text.Reset_Handler
+                0x00000000080002c4        0x8 build/startup.o
+                0x00000000080002c4                Reset_Handler
+ *(.rodata)
+ *(.rodata.*)
+                0x00000000080002cc                . = ALIGN (0x4)
+                0x00000000080002cc                _etext = .
+                0x00000000080002cc                _sidata = LOADADDR (.data)
+
+.glue_7         0x00000000080002cc        0x0
+ .glue_7        0x00000000080002cc        0x0 linker stubs
+
+.glue_7t        0x00000000080002cc        0x0
+ .glue_7t       0x00000000080002cc        0x0 linker stubs
+
+.vfp11_veneer   0x00000000080002cc        0x0
+ .vfp11_veneer  0x00000000080002cc        0x0 linker stubs
+
+.v4_bx          0x00000000080002cc        0x0
+ .v4_bx         0x00000000080002cc        0x0 linker stubs
+
+.iplt           0x00000000080002cc        0x0
+ .iplt          0x00000000080002cc        0x0 build/src/main.o
+
+.rel.dyn        0x00000000080002cc        0x0
+ .rel.iplt      0x00000000080002cc        0x0 build/src/main.o
+
+.data           0x0000000020000000        0x0 load address 0x00000000080002cc
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data.*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+
+.igot.plt       0x0000000020000000        0x0 load address 0x00000000080002cc
+ .igot.plt      0x0000000020000000        0x0 build/src/main.o
+
+.bss            0x0000000020000000        0x4 load address 0x00000000080002cc
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sbss = .
+ *(.bss)
+ *(.bss.*)
+ .bss.systick_ms
+                0x0000000020000000        0x4 build/lib/src/SYSTICK.o
+                0x0000000020000000                systick_ms
+ *(COMMON)
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _ebss = .
+OUTPUT(build/firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 build/src/main.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 build/lib/src/system_stm32f10x.o
+ .comment       0x0000000000000033       0x34 build/lib/src/SYSTICK.o
+
+.ARM.attributes
+                0x0000000000000000       0x2b
+ .ARM.attributes
+                0x0000000000000000       0x2d build/src/main.o
+ .ARM.attributes
+                0x000000000000002d       0x2d build/lib/src/system_stm32f10x.o
+ .ARM.attributes
+                0x000000000000005a       0x2d build/lib/src/SYSTICK.o
+ .ARM.attributes
+                0x0000000000000087       0x21 build/startup.o
